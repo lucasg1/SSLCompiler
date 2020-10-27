@@ -1,0 +1,6 @@
+function f(a:integer, b:integer, c:char):integer
+{
+	var x:integer;
+	var x:integer;
+	a = d + 1
+}

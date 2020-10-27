@@ -1,0 +1,7 @@
+function f(a: integer, b:integer):integer
+{
+	var x:integer;
+	var y:integer;
+	var z:Integer;
+	b = a+b;
+}
